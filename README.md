@@ -1,2 +1,3 @@
 # first-repo
-this is crazy
+git prep
+
